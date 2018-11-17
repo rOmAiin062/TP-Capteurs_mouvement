@@ -17,5 +17,5 @@ Version finale sur la branche "Version_finale" : [consulter](https://github.com/
 
 
 ### Récupération du sujet du tutoriel 
-  Récupérable [ici](https://github.com/rOmAiin062/TP-Capteurs_mouvements/blob/master/Sujet%20-%20TP%20Capteurs.pdf)
+  Récupérable [ici](https://github.com/rOmAiin062/TP-Capteurs_mouvements/blob/Tutoriel_pdf/Sujet%20-%20TP%20Capteurs.pdf)
 
